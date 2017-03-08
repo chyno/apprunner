@@ -70,7 +70,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"Hi there from module 1\";//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zY3JpcHQxLmpzPzE3ZGMiXSwibmFtZXMiOlsibW9kdWxlIiwiZXhwb3J0cyJdLCJtYXBwaW5ncyI6IkFBQUFBLE9BQU9DLE9BQVAsR0FBaUIsd0JBQWpCIiwiZmlsZSI6IjAuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiSGkgdGhlcmUgZnJvbSBtb2R1bGUgMVwiO1xyXG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gLi9zY3JpcHQxLmpzIl0sInNvdXJjZVJvb3QiOiIifQ==");
+eval("module.exports = \"Hi there from module  and webpack v2\";//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zY3JpcHQxLmpzPzE3ZGMiXSwibmFtZXMiOlsibW9kdWxlIiwiZXhwb3J0cyJdLCJtYXBwaW5ncyI6IkFBQUFBLE9BQU9DLE9BQVAsR0FBaUIsc0NBQWpCIiwiZmlsZSI6IjAuanMiLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9IFwiSGkgdGhlcmUgZnJvbSBtb2R1bGUgIGFuZCB3ZWJwYWNrIHYyXCI7XHJcblxuXG5cbi8vIFdFQlBBQ0sgRk9PVEVSIC8vXG4vLyAuL3NjcmlwdDEuanMiXSwic291cmNlUm9vdCI6IiJ9");
 
 /***/ }),
 /* 1 */

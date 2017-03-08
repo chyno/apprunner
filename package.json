@@ -17,6 +17,11 @@
     "webpack": "^2.2.1"
   },
   "devDependencies": {
-    "karma-jasmine": "^1.1.0"
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^2.0.2"
   }
 }
